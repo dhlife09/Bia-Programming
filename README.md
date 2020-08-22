@@ -1,14 +1,4 @@
+
 # Bia-Programming
 
-2020 비아고등학교 프로그래밍 동아리(파이썬)
-
-[인프런 나도코딩-파이썬-기본 강의](https://bit.ly/bia-python)를 참고하였습니다.
-
-# 목차
-1. 자료형
-2. 연산자
-3. 문자열 처리
-4. 자료구조
-5. 제어문
-6. 함수
-7. 작성중...
+[GitHub Organization]([https://github.com/Bia-Programmers](https://github.com/Bia-Programmers)) 으로 이전되었습니다!!
